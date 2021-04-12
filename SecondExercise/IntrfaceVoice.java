@@ -10,6 +10,8 @@ public interface Voice {
         }
     }
 
+//release of interface
+
     class Dog implements Voice {
 
 
