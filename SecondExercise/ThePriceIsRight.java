@@ -6,7 +6,7 @@ public interface ThePriceIsRight {
     void chekPrice(int price);
 }
 
-//realise of interface
+//release of interface
 
 class ThePriceIsRightImpl implements ThePriceIsRight {
   
